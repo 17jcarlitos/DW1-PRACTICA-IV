@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h1>About Page</h1>
-    <p>This is the about page.</p>
-    <router-link to="/">Go to Home</router-link>
+    <h1>BOLIVAR</h1>
+    <p>ESTA ES LA PAGINA DEL CLUB BOLIVAR</p>
+    <router-link to="/">IR A THE STRONGEST</router-link>
   </div>
 </template>
 
